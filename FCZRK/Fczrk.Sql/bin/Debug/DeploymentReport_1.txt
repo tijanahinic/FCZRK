@@ -1,0 +1,37 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Alumni] (Table)
+       [dbo].[Career] (Table)
+       [dbo].[Comment] (Table)
+       [dbo].[Info] (Table)
+       [dbo].[Log] (Table)
+       [dbo].[Member] (Table)
+       [dbo].[Project] (Table)
+       [dbo].[ProjectImages] (Table)
+       [dbo].[ProjectSponsor] (Table)
+       [dbo].[Role] (Table)
+       [dbo].[Section] (Table)
+       [dbo].[Sponsor] (Table)
+       [dbo].[SponsorCategory] (Table)
+       [dbo].[User] (Table)
+       [dbo].[FK_Comment_Project] (Foreign Key)
+       [dbo].[FK_Log_User] (Foreign Key)
+       [dbo].[FK_Member_Section] (Foreign Key)
+       [dbo].[FK_Member_User] (Foreign Key)
+       [dbo].[FK_Project_ProjectImages] (Foreign Key)
+       [dbo].[FK_ProjectSponsor_Project] (Foreign Key)
+       [dbo].[FK_ProjectSponsor_Sponsor] (Foreign Key)
+       [dbo].[FK_Sponsor_SponsorCategory] (Foreign Key)
+       [dbo].[FK_User_Role] (Foreign Key)
+
+** Supporting actions

@@ -1,0 +1,9 @@
+C:\Users\Sasa\Source\Repos\FCZRK\FCZRK\Fczrk.Entities\bin\Debug\Fczrk.Entities.dll.config
+C:\Users\Sasa\Source\Repos\FCZRK\FCZRK\Fczrk.Entities\bin\Debug\Fczrk.Entities.dll
+C:\Users\Sasa\Source\Repos\FCZRK\FCZRK\Fczrk.Entities\bin\Debug\Fczrk.Entities.pdb
+C:\Users\Sasa\Source\Repos\FCZRK\FCZRK\Fczrk.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Sasa\Source\Repos\FCZRK\FCZRK\Fczrk.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sasa\Source\Repos\FCZRK\FCZRK\Fczrk.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Sasa\Source\Repos\FCZRK\FCZRK\Fczrk.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sasa\Source\Repos\FCZRK\FCZRK\Fczrk.Entities\obj\Debug\Fczrk.Entities.dll
+C:\Users\Sasa\Source\Repos\FCZRK\FCZRK\Fczrk.Entities\obj\Debug\Fczrk.Entities.pdb

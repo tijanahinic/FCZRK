@@ -1,0 +1,10 @@
+﻿CREATE TABLE [dbo].[Info]
+(
+	[Id] INT NOT NULL IDENTITY(1,1) PRIMARY KEY, 
+    [Description] NVARCHAR(MAX) NOT NULL, 
+    [Mission] NVARCHAR(MAX) NOT NULL, 
+    [Vision] NVARCHAR(MAX) NOT NULL, 
+    [BecomeMember] NVARCHAR(MAX) NOT NULL, 
+    [AboutUs] NVARCHAR(MAX) NOT NULL, 
+    [AboutFax] NVARCHAR(MAX) NOT NULL
+)

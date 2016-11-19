@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="2ff7cdf6ce654354b1f6f07811b16836" Name="Diagram1" ZoomLevel="71">
+        <EntityTypeShape EntityType="FCZRKModel.Alumnus" Width="1.5" PointX="1" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="FCZRKModel.Career" Width="1.5" PointX="2.875" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="FCZRKModel.Comment" Width="1.5" PointX="11.75" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="FCZRKModel.Info" Width="1.5" PointX="11.75" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="FCZRKModel.Log" Width="1.5" PointX="4.75" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="FCZRKModel.Project" Width="1.5" PointX="9.375" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="FCZRKModel.ProjectImage" Width="1.5" PointX="9.25" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="FCZRKModel.Role" Width="1.5" PointX="2.875" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="FCZRKModel.Section" Width="1.5" PointX="0.75" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="FCZRKModel.Sponsor" Width="1.5" PointX="7.125" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="FCZRKModel.SponsorCategory" Width="1.5" PointX="7.125" PointY="3.5" IsExpanded="true" />
+        <AssociationConnector Association="FCZRKModel.FK_Comment_Project" ManuallyRouted="false" />
+        <AssociationConnector Association="FCZRKModel.FK_Project_ProjectImages" ManuallyRouted="false" />
+        <AssociationConnector Association="FCZRKModel.FK_Sponsor_SponsorCategory" ManuallyRouted="false" />
+        <AssociationConnector Association="FCZRKModel.ProjectSponsor" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="FCZRKModel.Member" Width="1.5" PointX="7.375" PointY="7.625" />
+        <EntityTypeShape EntityType="FCZRKModel.User" Width="1.5" PointX="5.125" PointY="7.125" />
+        <AssociationConnector Association="FCZRKModel.FK_Log_User" />
+        <AssociationConnector Association="FCZRKModel.FK_Member_Section" />
+        <AssociationConnector Association="FCZRKModel.FK_Member_User" />
+        <AssociationConnector Association="FCZRKModel.FK_User_Role" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

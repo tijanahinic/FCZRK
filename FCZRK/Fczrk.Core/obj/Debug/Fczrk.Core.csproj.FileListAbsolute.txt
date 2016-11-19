@@ -1,0 +1,4 @@
+C:\Users\Sasa\Source\Repos\FCZRK\FCZRK\Fczrk.Core\bin\Debug\Fczrk.Core.dll
+C:\Users\Sasa\Source\Repos\FCZRK\FCZRK\Fczrk.Core\bin\Debug\Fczrk.Core.pdb
+C:\Users\Sasa\Source\Repos\FCZRK\FCZRK\Fczrk.Core\obj\Debug\Fczrk.Core.dll
+C:\Users\Sasa\Source\Repos\FCZRK\FCZRK\Fczrk.Core\obj\Debug\Fczrk.Core.pdb

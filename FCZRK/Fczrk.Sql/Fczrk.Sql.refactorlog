@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="f7009185-e113-4949-a198-d04fedea0954" ChangeDateTime="11/19/2016 11:16:19">
+    <Property Name="ElementName" Value="[dbo].[FK_Member_ToTable]" />
+    <Property Name="ElementType" Value="SqlForeignKeyConstraint" />
+    <Property Name="ParentElementName" Value="[dbo].[Member]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="[FK_Member_Section]" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="86af438c-9a20-4dbc-a89d-f8bb344abc3c" ChangeDateTime="11/19/2016 11:42:43">
+    <Property Name="ElementName" Value="[dbo].[ProjectSponsor].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[ProjectSponsor]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="ProjectId" />
+  </Operation>
+</Operations>

@@ -1,0 +1,5 @@
+C:\Users\Sasa\Source\Repos\FCZRK\FCZRK\Fczrk.Common\bin\Debug\Fczrk.Common.dll
+C:\Users\Sasa\Source\Repos\FCZRK\FCZRK\Fczrk.Common\bin\Debug\Fczrk.Common.pdb
+C:\Users\Sasa\Source\Repos\FCZRK\FCZRK\Fczrk.Common\obj\Debug\Fczrk.Common.csprojResolveAssemblyReference.cache
+C:\Users\Sasa\Source\Repos\FCZRK\FCZRK\Fczrk.Common\obj\Debug\Fczrk.Common.dll
+C:\Users\Sasa\Source\Repos\FCZRK\FCZRK\Fczrk.Common\obj\Debug\Fczrk.Common.pdb
