@@ -7,3 +7,12 @@ C:\Users\Sasa\Source\Repos\FCZRK\FCZRK\Fczrk.Entities\bin\Debug\EntityFramework.
 C:\Users\Sasa\Source\Repos\FCZRK\FCZRK\Fczrk.Entities\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Sasa\Source\Repos\FCZRK\FCZRK\Fczrk.Entities\obj\Debug\Fczrk.Entities.dll
 C:\Users\Sasa\Source\Repos\FCZRK\FCZRK\Fczrk.Entities\obj\Debug\Fczrk.Entities.pdb
+C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Entities\bin\Debug\Fczrk.Entities.dll.config
+C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Entities\bin\Debug\Fczrk.Entities.dll
+C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Entities\bin\Debug\Fczrk.Entities.pdb
+C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Entities\bin\Debug\EntityFramework.dll
+C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Entities\bin\Debug\EntityFramework.xml
+C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Entities\obj\Debug\Fczrk.Entities.dll
+C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Entities\obj\Debug\Fczrk.Entities.pdb

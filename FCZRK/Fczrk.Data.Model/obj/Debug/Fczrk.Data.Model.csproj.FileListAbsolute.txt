@@ -10,3 +10,15 @@ C:\Users\Sasa\Source\Repos\FCZRK\FCZRK\Fczrk.Data.Model\bin\Debug\EntityFramewor
 C:\Users\Sasa\Source\Repos\FCZRK\FCZRK\Fczrk.Data.Model\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Sasa\Source\Repos\FCZRK\FCZRK\Fczrk.Data.Model\obj\Debug\Fczrk.Data.Model.dll
 C:\Users\Sasa\Source\Repos\FCZRK\FCZRK\Fczrk.Data.Model\obj\Debug\Fczrk.Data.Model.pdb
+C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Data.Model\bin\Debug\Fczrk.Data.Model.dll.config
+C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Data.Model\bin\Debug\Fczrk.Data.Model.dll
+C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Data.Model\bin\Debug\Fczrk.Data.Model.pdb
+C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Data.Model\bin\Debug\EntityFramework.dll
+C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Data.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Data.Model\bin\Debug\Fczrk.Entities.dll
+C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Data.Model\bin\Debug\Fczrk.Entities.pdb
+C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Data.Model\bin\Debug\EntityFramework.xml
+C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Data.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Data.Model\obj\Debug\Fczrk.Data.Model.csprojResolveAssemblyReference.cache
+C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Data.Model\obj\Debug\Fczrk.Data.Model.dll
+C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Data.Model\obj\Debug\Fczrk.Data.Model.pdb

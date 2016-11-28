@@ -3,3 +3,12 @@ C:\Users\Sasa\Source\Repos\FCZRK\FCZRK\Fczrk.Sql\bin\Debug\Fczrk.Sql.dll
 C:\Users\Sasa\Source\Repos\FCZRK\FCZRK\Fczrk.Sql\bin\Debug\Fczrk.Sql.pdb
 C:\Users\Sasa\Source\Repos\FCZRK\FCZRK\Fczrk.Sql\obj\Debug\Fczrk.Sql.dll
 C:\Users\Sasa\Source\Repos\FCZRK\FCZRK\Fczrk.Sql\obj\Debug\Fczrk.Sql.pdb
+C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Sql\bin\Debug\Fczrk.Sql.dacpac
+C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Sql\bin\Debug\Fczrk.Sql.dll
+C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Sql\bin\Debug\Fczrk.Sql.pdb
+C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Sql\obj\Debug\Model.xml
+C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Sql\obj\Debug\refactor.xml
+C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Sql\obj\Debug\postdeploy.sql
+C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Sql\obj\Debug\predeploy.sql
+C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Sql\obj\Debug\Fczrk.Sql.dll
+C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Sql\obj\Debug\Fczrk.Sql.pdb
