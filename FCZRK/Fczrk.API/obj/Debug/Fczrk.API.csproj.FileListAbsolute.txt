@@ -171,3 +171,6 @@ C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.API\bin\EntityFramework.xml
 C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.API\bin\EntityFramework.SqlServer.xml
 C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.API\bin\Fczrk.Data.pdb
 C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.API\bin\Fczrk.Data.Model.pdb
+C:\Users\Djordje\Source\Repos\FCZRK\FCZRK\Fczrk.API\obj\Debug\Fczrk.API.dll
+C:\Users\Djordje\Source\Repos\FCZRK\FCZRK\Fczrk.API\obj\Debug\Fczrk.API.pdb
+C:\Users\Djordje\Source\Repos\FCZRK\FCZRK\Fczrk.API\obj\Debug\Fczrk.API.csprojResolveAssemblyReference.cache

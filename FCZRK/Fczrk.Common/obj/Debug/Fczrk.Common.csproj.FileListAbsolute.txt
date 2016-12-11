@@ -7,3 +7,8 @@ C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Common\bin\Debug\Fczrk.Common.dll
 C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Common\bin\Debug\Fczrk.Common.pdb
 C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Common\obj\Debug\Fczrk.Common.dll
 C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Common\obj\Debug\Fczrk.Common.pdb
+C:\Users\Djordje\Source\Repos\FCZRK\FCZRK\Fczrk.Common\bin\Debug\Fczrk.Common.dll
+C:\Users\Djordje\Source\Repos\FCZRK\FCZRK\Fczrk.Common\bin\Debug\Fczrk.Common.pdb
+C:\Users\Djordje\Source\Repos\FCZRK\FCZRK\Fczrk.Common\obj\Debug\Fczrk.Common.csprojResolveAssemblyReference.cache
+C:\Users\Djordje\Source\Repos\FCZRK\FCZRK\Fczrk.Common\obj\Debug\Fczrk.Common.dll
+C:\Users\Djordje\Source\Repos\FCZRK\FCZRK\Fczrk.Common\obj\Debug\Fczrk.Common.pdb
