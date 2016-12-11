@@ -16,3 +16,4 @@ C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Entities\bin\Debug\EntityFramework
 C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Entities\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Entities\obj\Debug\Fczrk.Entities.dll
 C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Entities\obj\Debug\Fczrk.Entities.pdb
+C:\Users\Sasa\Source\Repos\FCZRK\FCZRK\Fczrk.Entities\obj\Debug\Fczrk.Entities.csprojResolveAssemblyReference.cache

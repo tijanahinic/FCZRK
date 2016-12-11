@@ -7,7 +7,7 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 
-namespace NasaPatrola.API.Controllers
+namespace Fczrk.API.Controllers
 {
     /// <summary>
     /// Base controller for all NasaPatrola controllers

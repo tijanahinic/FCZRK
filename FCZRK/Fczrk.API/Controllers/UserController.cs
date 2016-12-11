@@ -1,7 +1,6 @@
 ﻿using Fczrk.API.Helpers;
 using Fczrk.API.Models.User;
 using Fczrk.Entities;
-using NasaPatrola.API.Controllers;
 using System;
 using System.Collections.Generic;
 using System.Linq;
