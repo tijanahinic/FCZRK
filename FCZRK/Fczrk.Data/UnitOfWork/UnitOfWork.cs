@@ -17,7 +17,6 @@ namespace Fczrk.Data
         private DbContext context;
 
         private UserRepository userRepository;
-
         private CommentRepository commentRepository;
 
         #endregion Fields
@@ -45,6 +44,7 @@ namespace Fczrk.Data
                 return userRepository ?? (userRepository = new UserRepository(DataContext));
             }
         }
+
         public CommentRepository CommentRepository
         {
             get
@@ -52,9 +52,6 @@ namespace Fczrk.Data
                 return commentRepository ?? (commentRepository = new CommentRepository(DataContext));
             }
         }
-
-        public object UserRepository { get; set; }
-        public object CommentRepository { get; set; }
 
         #endregion Repository
 
