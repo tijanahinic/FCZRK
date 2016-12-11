@@ -34,5 +34,13 @@ namespace Fczrk.API.Controllers
                 return commentManager ?? (commentManager = new CommentManager());
             }
         }
+        internal SponsorCategoryManager sponsorcategoryManager;
+        internal SponsorCategoryManager SponsorCategoryManager
+        {
+            get
+            {
+                return sponsorcategoryManager ?? (sponsorcategoryManager = new SponsorCategoryManager());
+            }
+        }
     }
 }

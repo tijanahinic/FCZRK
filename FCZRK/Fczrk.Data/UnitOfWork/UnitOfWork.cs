@@ -18,6 +18,7 @@ namespace Fczrk.Data
 
         private UserRepository userRepository;
         private CommentRepository commentRepository;
+        private SponsorCategoryRepository sponsorcategoryRepository;
 
         #endregion Fields
 
@@ -50,6 +51,13 @@ namespace Fczrk.Data
             get
             {
                 return commentRepository ?? (commentRepository = new CommentRepository(DataContext));
+            }
+        }
+        public SponsorCategoryRepository SponsorCategoryRepository
+        {
+            get
+            {
+                return sponsorcategoryRepository ?? (sponsorcategoryRepository = new SponsorCategoryRepository(DataContext));
             }
         }
 

@@ -1,7 +1,7 @@
 ﻿using Fczrk.Common.Exceptions;
 using Fczrk.Common.Extensions;
 
-namespace NasaPatrola.Common.Helpers
+namespace Fczrk.Common.Helpers
 {
     public static class ValidationHelper
     {

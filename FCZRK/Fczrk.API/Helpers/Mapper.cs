@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Fczrk.API.Models.SponsorCategory;
 using Fczrk.API.Models.User;
 using Fczrk.Entities;
 using System;
@@ -39,6 +40,14 @@ namespace Fczrk.API.Helpers
                 Active = comment.Active,
                 DateCreated = comment.DateCreated,
                 ProjectId = comment.ProjectId
+            };
+        }
+      public static SponsorCategoryModel Map (SponsorCategory sponsorcategory)
+        {
+            return new SponsorCategoryModel
+            {
+                Name = sponsorcategory.Name,
+                Id = sponsorcategory.Id
             };
         }
     }
