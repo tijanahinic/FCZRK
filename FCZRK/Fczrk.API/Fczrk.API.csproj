@@ -145,6 +145,7 @@
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\BaseController.cs" />
     <Compile Include="Controllers\CareerController.cs" />
+    <Compile Include="Controllers\CommentController.cs" />
     <Compile Include="Controllers\UserController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -154,6 +155,8 @@
     <Compile Include="Helpers\TokenAuthorizeAttribute.cs" />
     <Compile Include="Helpers\ValidateModelAttribute.cs" />
     <Compile Include="Models\UserJwtModel.cs" />
+    <Compile Include="Models\Comment\CommentModel.cs" />
+    <Compile Include="Models\CommentJwtModel.cs" />
     <Compile Include="Models\User\UserModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

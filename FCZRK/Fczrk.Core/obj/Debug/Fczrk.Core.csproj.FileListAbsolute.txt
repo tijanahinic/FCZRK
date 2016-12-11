@@ -17,3 +17,6 @@ C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Core\bin\Debug\Fczrk.Data.Model.pd
 C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Core\obj\Debug\Fczrk.Core.csprojResolveAssemblyReference.cache
 C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Core\obj\Debug\Fczrk.Core.dll
 C:\Users\lukic\Source\Repos\FCZRK\FCZRK\Fczrk.Core\obj\Debug\Fczrk.Core.pdb
+C:\Users\Djordje\Source\Repos\FCZRK\FCZRK\Fczrk.Core\obj\Debug\Fczrk.Core.csprojResolveAssemblyReference.cache
+C:\Users\Djordje\Source\Repos\FCZRK\FCZRK\Fczrk.Core\obj\Debug\Fczrk.Core.dll
+C:\Users\Djordje\Source\Repos\FCZRK\FCZRK\Fczrk.Core\obj\Debug\Fczrk.Core.pdb

@@ -7,10 +7,10 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 
-namespace NasaPatrola.API.Controllers
+namespace FCZRK.API.Controllers
 {
     /// <summary>
-    /// Base controller for all NasaPatrola controllers
+    /// Base controller for all FCZRK controllers
     /// </summary>
     /// <seealso cref="System.Web.Http.ApiController" />
     public class BaseController : ApiController
@@ -24,6 +24,8 @@ namespace NasaPatrola.API.Controllers
             {
                 return userManager ?? (userManager = new UserManager());
             }
+
+
         }
     }
 }
