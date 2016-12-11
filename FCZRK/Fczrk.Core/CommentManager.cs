@@ -16,8 +16,73 @@ namespace Fczrk.Core
         {
             using (UnitOfWork uow = new UnitOfWork())
             {
-                Comment comment = uow.CommentRepository.Find(u => u.Id == id, includeProperties: "Member").FirstOrDefault();
+                Comment comment = uow.CommentRepository.GetById(id);
                 ValidationHelper.ValidateNotNull(comment);
+                return comment;
+            }
+        }
+
+        public List<Comment> GetAll()
+        {
+            using (UnitOfWork uow = new UnitOfWork())
+            {
+                List<Comment> comments = uow.CommentRepository.GetAll();
+                return comments;
+            }
+        }
+
+        public Comment AddComment(string name, string text, int projectId)
+        {
+            using (UnitOfWork uow = new UnitOfWork())
+            {
+                Comment comment = new Comment
+                {
+                    Name = name,
+                    Text = text,
+                    DateCreated = DateTime.UtcNow,
+                    ProjectId = projectId
+                };
+
+                uow.CommentRepository.Insert(comment);
+                uow.Save();
+
+                return comment;
+            }
+        }
+
+        public void Delete(int id)
+        {
+            using (UnitOfWork uow = new UnitOfWork())
+            {
+                Comment comment = uow.CommentRepository.GetById(id);
+                ValidationHelper.ValidateNotNull(comment);
+
+                uow.CommentRepository.Delete(comment);
+                uow.Save();
+            }
+        }
+
+        public Comment Edit(int id, string name, string text)
+        {
+            using (UnitOfWork uow = new UnitOfWork())
+            {
+                Comment comment = uow.CommentRepository.GetById(id);
+                comment.Name = name;
+                comment.Text = text;
+
+                uow.Save();
+                return comment;
+            }
+        }
+
+        public Comment ToggleActive(int id)
+        {
+            using (UnitOfWork uow = new UnitOfWork())
+            {
+                Comment comment = uow.CommentRepository.GetById(id);
+                comment.Active = !comment.Active;
+
+                uow.Save();
                 return comment;
             }
         }

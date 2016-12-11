@@ -1,4 +1,6 @@
 ﻿using AutoMapper;
+using Fczrk.API.Models.User;
+using Fczrk.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -24,6 +26,20 @@ namespace Fczrk.API.Helpers
             var result = mapper.Map<TDestination>(source);
 
             return result;
+        }
+
+
+        public static CommentModel Map(Comment comment)
+        {
+            return new CommentModel
+            {
+                Name = comment.Name,
+                Text = comment.Text,
+                Id = comment.Id,
+                Active = comment.Active,
+                DateCreated = comment.DateCreated,
+                ProjectId = comment.ProjectId
+            };
         }
     }
 }

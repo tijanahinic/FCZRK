@@ -15,7 +15,7 @@ namespace Fczrk.API.Controllers
         public UserModel Get(int id)
         {
             User user = UserManager.Get(id);
-            return new Models.User.UserModel
+            return new UserModel
             {
                 FirstName = user.Member.FirstName,
                 Email = user.Email,

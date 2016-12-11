@@ -156,7 +156,6 @@
     <Compile Include="Helpers\ValidateModelAttribute.cs" />
     <Compile Include="Models\UserJwtModel.cs" />
     <Compile Include="Models\Comment\CommentModel.cs" />
-    <Compile Include="Models\CommentJwtModel.cs" />
     <Compile Include="Models\User\UserModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

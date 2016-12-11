@@ -21,3 +21,7 @@ C:\Users\Djordje\Source\Repos\FCZRK\FCZRK\Fczrk.Sql\obj\Debug\postdeploy.sql
 C:\Users\Djordje\Source\Repos\FCZRK\FCZRK\Fczrk.Sql\obj\Debug\predeploy.sql
 C:\Users\Djordje\Source\Repos\FCZRK\FCZRK\Fczrk.Sql\obj\Debug\Fczrk.Sql.dll
 C:\Users\Djordje\Source\Repos\FCZRK\FCZRK\Fczrk.Sql\obj\Debug\Fczrk.Sql.pdb
+C:\Users\Sasa\Source\Repos\FCZRK\FCZRK\Fczrk.Sql\obj\Debug\Model.xml
+C:\Users\Sasa\Source\Repos\FCZRK\FCZRK\Fczrk.Sql\obj\Debug\refactor.xml
+C:\Users\Sasa\Source\Repos\FCZRK\FCZRK\Fczrk.Sql\obj\Debug\postdeploy.sql
+C:\Users\Sasa\Source\Repos\FCZRK\FCZRK\Fczrk.Sql\obj\Debug\predeploy.sql

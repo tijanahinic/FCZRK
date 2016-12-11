@@ -11,20 +11,50 @@ using Fczrk.Core;
 
 namespace Fczrk.API.Controllers
 {
-    public class CommentController 
+    public class CommentController : BaseController
     {
         [HttpGet]
         public CommentModel Get(int id)
         {
             Comment comment = CommentManager.Get(id);
-            return new CommentModel
-            {
-                Name = comment.Name,
-                Text = comment.Text,
-                Id = comment.Id,
-                Active = comment.Active,
-                DateCreated = comment.DateCreated
-            };
+            return Mapper.Map(comment);
+        }
+
+        [HttpGet]
+        public List<CommentModel> GetAll()
+        {
+            List<Comment> comments = CommentManager.GetAll();
+            List<CommentModel> commentsModel = new List<CommentModel>();
+            return comments.Select(a => Mapper.Map(a)).ToList();
+        }
+
+        [HttpPost]
+        public CommentModel AddComment(CommentModel commentModel)
+        {
+            Comment comment = CommentManager.AddComment(commentModel.Name, commentModel.Text, commentModel.ProjectId);
+            return Mapper.Map(comment); 
+        } 
+
+        [HttpPost]
+        public void Delete(int id)
+        {
+            CommentManager.Delete(id);
+        }
+
+        [HttpPost]
+        public CommentModel Edit(CommentModel commentModel)
+        {
+            Comment comment = CommentManager.Edit(commentModel.Id, commentModel.Name, commentModel.Text);
+            return Mapper.Map(comment);
+        }
+
+        [HttpPost]
+        public CommentModel ToggleActive (int id)
+        {
+            Comment comment = CommentManager.ToggleActive(id);
+            return Mapper.Map(comment);
         }
     }
+
+
 }

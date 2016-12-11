@@ -12,5 +12,6 @@ namespace Fczrk.API.Models.User
         public bool Active { get; set; }
         public string Name { get; set; }
         public DateTime DateCreated { get; set; }
+        public int ProjectId { get; set; }
     }
 }

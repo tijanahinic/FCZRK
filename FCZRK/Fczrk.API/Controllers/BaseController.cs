@@ -25,5 +25,14 @@ namespace Fczrk.API.Controllers
                 return userManager ?? (userManager = new UserManager());
             }
         }
+
+        internal CommentManager commentManager;
+        internal CommentManager CommentManager
+        {
+            get
+            {
+                return commentManager ?? (commentManager = new CommentManager());
+            }
+        }
     }
 }
