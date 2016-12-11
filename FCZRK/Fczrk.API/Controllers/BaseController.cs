@@ -42,5 +42,13 @@ namespace Fczrk.API.Controllers
                 return sponsorcategoryManager ?? (sponsorcategoryManager = new SponsorCategoryManager());
             }
         }
+        internal InfoManager infoManager;
+        internal InfoManager InfoManager
+        {
+            get
+            {
+                return infoManager ?? (infoManager = new InfoManager());
+            }
+        }
     }
 }

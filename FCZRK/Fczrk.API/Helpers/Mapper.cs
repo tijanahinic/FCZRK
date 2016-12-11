@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Fczrk.API.Models.Info;
 using Fczrk.API.Models.SponsorCategory;
 using Fczrk.API.Models.User;
 using Fczrk.Entities;
@@ -48,6 +49,19 @@ namespace Fczrk.API.Helpers
             {
                 Name = sponsorcategory.Name,
                 Id = sponsorcategory.Id
+            };
+        }
+       public static InfoModel Map (Entities.Info info)
+        {
+            return new Models.Info.InfoModel
+            {
+                Description = info.Description,
+                Id = info.Id,
+                Mission = info.Mission,
+                Vision = info.Vision,
+                BecomeMember = info.BecomeMember,
+                AboutFax = info.AboutFax,
+                AboutUs = info.AboutUs
             };
         }
     }

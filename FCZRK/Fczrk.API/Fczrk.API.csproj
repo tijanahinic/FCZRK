@@ -146,6 +146,7 @@
     <Compile Include="Controllers\BaseController.cs" />
     <Compile Include="Controllers\CareerController.cs" />
     <Compile Include="Controllers\CommentController.cs" />
+    <Compile Include="Controllers\InfoController.cs" />
     <Compile Include="Controllers\SponsorCategoryController.cs" />
     <Compile Include="Controllers\UserController.cs" />
     <Compile Include="Global.asax.cs">
@@ -155,6 +156,7 @@
     <Compile Include="Helpers\Mapper.cs" />
     <Compile Include="Helpers\TokenAuthorizeAttribute.cs" />
     <Compile Include="Helpers\ValidateModelAttribute.cs" />
+    <Compile Include="Models\Info\InfoModel.cs" />
     <Compile Include="Models\SponsorCategory\SponsorCategoryModel.cs" />
     <Compile Include="Models\UserJwtModel.cs" />
     <Compile Include="Models\Comment\CommentModel.cs" />
